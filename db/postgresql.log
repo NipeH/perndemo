@@ -1,0 +1,34 @@
+2021-04-17 14:07:53.905 EEST [92712] LOG:  starting PostgreSQL 13.2 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 11.0.3 (clang-1103.0.32.62), 64-bit
+2021-04-17 14:07:53.907 EEST [92712] LOG:  listening on IPv6 address "::1", port 5432
+2021-04-17 14:07:53.907 EEST [92712] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-04-17 14:07:53.907 EEST [92712] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2021-04-17 14:07:53.910 EEST [92713] LOG:  database system was shut down at 2021-04-17 14:07:53 EEST
+2021-04-17 14:07:53.919 EEST [92712] LOG:  database system is ready to accept connections
+2021-04-17 14:09:55.561 EEST [92712] LOG:  received fast shutdown request
+2021-04-17 14:09:55.562 EEST [92712] LOG:  aborting any active transactions
+2021-04-17 14:09:55.563 EEST [92712] LOG:  background worker "logical replication launcher" (PID 92719) exited with exit code 1
+2021-04-17 14:09:55.563 EEST [92714] LOG:  shutting down
+2021-04-17 14:09:55.569 EEST [92712] LOG:  database system is shut down
+2021-04-17 14:09:56.551 EEST [92776] LOG:  starting PostgreSQL 13.2 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 11.0.3 (clang-1103.0.32.62), 64-bit
+2021-04-17 14:09:56.553 EEST [92776] LOG:  listening on IPv6 address "::1", port 5432
+2021-04-17 14:09:56.553 EEST [92776] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-04-17 14:09:56.554 EEST [92776] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2021-04-17 14:09:56.557 EEST [92777] LOG:  database system was shut down at 2021-04-17 14:09:55 EEST
+2021-04-17 14:09:56.560 EEST [92776] LOG:  database system is ready to accept connections
+2021-04-17 14:12:43.560 EEST [92776] LOG:  received fast shutdown request
+2021-04-17 14:12:43.560 EEST [92776] LOG:  aborting any active transactions
+2021-04-17 14:12:43.560 EEST [92810] FATAL:  terminating connection due to administrator command
+2021-04-17 14:12:43.561 EEST [92776] LOG:  background worker "logical replication launcher" (PID 92783) exited with exit code 1
+2021-04-17 14:12:43.561 EEST [92778] LOG:  shutting down
+2021-04-17 14:12:43.567 EEST [92776] LOG:  database system is shut down
+2021-04-17 14:14:03.441 EEST [92843] LOG:  starting PostgreSQL 13.2 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 11.0.3 (clang-1103.0.32.62), 64-bit
+2021-04-17 14:14:03.443 EEST [92843] LOG:  listening on IPv6 address "::1", port 5432
+2021-04-17 14:14:03.443 EEST [92843] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-04-17 14:14:03.444 EEST [92843] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2021-04-17 14:14:03.447 EEST [92844] LOG:  database system was shut down at 2021-04-17 14:12:43 EEST
+2021-04-17 14:14:03.450 EEST [92843] LOG:  database system is ready to accept connections
+2021-04-17 14:15:01.206 EEST [92843] LOG:  received fast shutdown request
+2021-04-17 14:15:01.206 EEST [92843] LOG:  aborting any active transactions
+2021-04-17 14:15:01.207 EEST [92843] LOG:  background worker "logical replication launcher" (PID 92850) exited with exit code 1
+2021-04-17 14:15:01.207 EEST [92845] LOG:  shutting down
+2021-04-17 14:15:01.215 EEST [92843] LOG:  database system is shut down
