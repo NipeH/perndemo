@@ -29,16 +29,18 @@ Frontend: React
 ## Getting started
 
 Clone the repo
+
    ```sh
    git clone https://github.com/NipeH/perndemo
    ```
    
    
  Setup backend
-      ```sh
+ 
+   ```sh
    npm init
    ```
-      ```sh
+   ```sh
    npm install
    ```
    ```sh
@@ -47,7 +49,8 @@ Clone the repo
  
  
   Setup frontend
-  ```sh
+  
+   ```sh
    npm install
    ```
    ```sh
